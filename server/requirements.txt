@@ -11,4 +11,4 @@ gunicorn[gevent]==20.0.4
 pyproj==2.6.1.post1
 redis==3.5.3
 requests==2.24.0
-whitenoise==5.1.0
+whitenoise==5.2.0
